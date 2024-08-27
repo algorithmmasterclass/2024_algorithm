@@ -4,10 +4,8 @@
 
 #### 문제링크
 
-[곱셈 - 난이도](https://www.acmicpc.net/problem/1629)
+[곱셈](https://www.acmicpc.net/problem/1629)
 
-[하노이 탑 이동 순서 - 난이도](https://www.acmicpc.net/problem/11729)
+[하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
 
-[Z - 실버1](https://www.acmicpc.net/problem/1074)
-
-
+[Z](https://www.acmicpc.net/problem/1074)
